@@ -3,3 +3,5 @@
 Welcome to my page!
 
 I'm Yoon, a Software Engineering student from Korea!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-YoonSeong&layout=compact)
