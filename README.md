@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=19&text=Hi!%20I'm%20abluehour&fontColor=CCCCFF&fontAlignY=50&descAlignY=65&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&customColorList=19&text=Hi!%20I'm%20abluehour&fontColor=B0C4DE&fontAlignY=50&descAlignY=65&fontSize=60)
