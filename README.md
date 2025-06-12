@@ -2,4 +2,4 @@
 
 Welcome to my page!
 
-I'm Yoon, a Software Engineering student from Korea
+I'm Yoon, a Software Engineering student from Korea!
