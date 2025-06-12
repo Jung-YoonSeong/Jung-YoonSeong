@@ -2,6 +2,6 @@
 
 Welcome to my page!
 
-I'm Yoon, a Software Engineering student from Korea!
+I'm Yoon, a Software Engineering student from Korea! <img src="https://raw.githubusercontent.com/hjnilsson/country-flags/main/svg/kr.svg" width="30">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jung-YoonSeong&layout=compact)
