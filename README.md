@@ -9,7 +9,6 @@
 <br>
 <div>
 
-  
   ## 🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
