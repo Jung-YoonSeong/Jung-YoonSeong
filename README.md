@@ -11,10 +11,10 @@
 
   ## 🌱 I’m currently learning ...
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
 
   ## 🤔 Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abluehour&layout=compact&exclude_repo=CROFFLE)
